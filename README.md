@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m React.js developer<br>🐱‍👤 Skilled and motivated front-end developerwith an experience in commercial development.<br>💬 I like to solve difficult tasks and to learn new technologies.<br>🙌 I'm a responsible team player who completes every task attentively and carefully.<br><br>
+🚀 I’m React.js developer<br>🐱‍👤 Skilled and motivated front-end developer with an experience in commercial development.<br>💬 I like to solve difficult tasks and to learn new technologies.<br>🙌 I'm a responsible team player who completes every task attentively and carefully.<br><br>
 
 
 # 💻 Tech Stack:
@@ -11,9 +11,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rashevskyyy&icon=0&color=0)](https://visitcount.itsvg.in)
