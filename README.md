@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m React.js developer<br>🐱‍👤 Skilled and motivated front-end developer with an experience in commercial development.<br>💬 I like to solve difficult tasks and to learn new technologies.<br>🙌 I'm a responsible team player who completes every task attentively and carefully.<br><br>
+🚀 I’m Full-stack developer<br>🐱‍👤 Skilled and motivated front-end developer with an experience in commercial development.<br>💬 I like to solve difficult tasks and to learn new technologies.<br>🙌 I'm a responsible team player who completes every task attentively and carefully.<br><br>
 
 
 # 💻 Tech Stack:
